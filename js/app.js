@@ -3855,7 +3855,7 @@
             document.querySelector('[data-btn="uk"]').classList.add("header__btn_active");
             break;
 
-          case "en":
+          case "ru":
             document.querySelector('[data-btn="ru"]').classList.add("header__btn_active");
             break;
 
